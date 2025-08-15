@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3EF74E&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Computer+Vision+Learner";NLP+Learner alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8E44AD&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Computer+Vision+Learner";NLP+Learner alt="Typing SVG" />
   </a>
 </p>
 

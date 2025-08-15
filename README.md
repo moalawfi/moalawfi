@@ -1,16 +1,9 @@
 <!-- Profile Header -->
 <!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Mohammed+Alawfi;AI+Enthusiast;Machine+Learning+Engineer;Computer+Vision+Learner&color=8E44AD&color2=9B59B6&color3=BB8FCE&color4=E8DAEF" alt="Typing SVG" />
-  </a>
-</p>
-
-
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+Learner";NLP+Learner alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Mohammed+Alawfi;;Machine+Learning+Engineer;Computer+Vision+Learner;NLP+Learner&color=FFFFFF" alt="Typing SVG" />
   </a>
 </p>
 

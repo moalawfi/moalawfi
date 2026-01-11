@@ -13,8 +13,7 @@
 ## 📌 About Me
 - 🎓 AI Student at **Taibah University**  
 - 💻 Skilled in **Python**, **Java**, **Pandas**, **Scikit-learn**, **OpenCV**, **Streamlit**  
-- 📍 Based in Medina, Saudi Arabia  
-- 📧 Email: **[moalawfi@hotmail.com](mailto:moalawfi@hotmail.com)**  
+- 📍 Based in Medina, Saudi Arabia   
 
 ---
 

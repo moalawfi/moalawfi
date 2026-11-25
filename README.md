@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohammed+Alawfi+%F0%9F%9A%80;AI+Student+%26+Researcher+%F0%9F%94%AC;NLP+%E2%80%A2+Saudi+Dialects+%E2%80%A2+Intent+Classification+%F0%9F%92%AC;Building+Arabic-first+NLP+%F0%9F%87%B8%F0%9F%87%A6;Teaching+machines+to+see+%F0%9F%91%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-📍 Medina, Saudi Arabia &nbsp;·&nbsp; 🎓 Taibah University &nbsp;·&nbsp; 🔬 Researcher &nbsp;·&nbsp; 💬 NLP &nbsp;·&nbsp; 🤖 AI / ML
+🌐 <a href="https://moalawfi.github.io"><b>moalawfi.github.io</b></a> &nbsp;·&nbsp; 📍 Medina, Saudi Arabia &nbsp;·&nbsp; 🎓 Taibah University &nbsp;·&nbsp; 🔬 Researcher &nbsp;·&nbsp; 💬 NLP &nbsp;·&nbsp; 🤖 AI / ML
 
 </div>
 
@@ -125,6 +125,9 @@ The **first Saudi dialects intent classification dataset**, published on Hugging
   </a>
   <a href="https://www.linkedin.com/in/mohammed-alawfi-3913a5378">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://moalawfi.github.io">
+    <img src="https://img.shields.io/badge/Website-moalawfi.github.io-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/moalawfi">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />

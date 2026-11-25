@@ -16,7 +16,7 @@
 
 - 🎓 AI Student at **Taibah University**
 - 🔬 **Researcher** in **Natural Language Processing (NLP)**
-- 🏆 Participated in **MCAIT**
+- 🎤 **Presenter** at **MCAIT**
 - 💻 Skilled in **Python**, **Java**, **NLP**, **Pandas**, **Scikit-learn**, **OpenCV**, **Streamlit**
 - 🇸🇦 Focused on **Arabic NLP**, **Saudi dialects** and **computer vision**
 - 🔬 I like building ML from first principles, then shipping it as real apps
@@ -42,7 +42,7 @@ The **first Saudi dialects intent classification dataset**, published on Hugging
 <td width="90" align="center">🏆</td>
 <td>
 
-**MCAIT** — *Participant*
+**MCAIT** — *Presenter* 🎤
 
 </td>
 </tr>

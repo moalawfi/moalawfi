@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Alawfi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Alawfi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20NLP%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohammed+Alawfi+%F0%9F%9A%80;AI+Student+%40+Taibah+University+%F0%9F%8E%93;Building+Arabic-first+NLP+%F0%9F%87%B8%F0%9F%87%A6;Teaching+machines+to+see+%F0%9F%91%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohammed+Alawfi+%F0%9F%9A%80;AI+Student+%26+Researcher+%F0%9F%94%AC;NLP+%E2%80%A2+Saudi+Dialects+%E2%80%A2+Intent+Classification+%F0%9F%92%AC;Building+Arabic-first+NLP+%F0%9F%87%B8%F0%9F%87%A6;Teaching+machines+to+see+%F0%9F%91%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-📍 Medina, Saudi Arabia &nbsp;·&nbsp; 🎓 Taibah University &nbsp;·&nbsp; 🤖 AI / ML
+📍 Medina, Saudi Arabia &nbsp;·&nbsp; 🎓 Taibah University &nbsp;·&nbsp; 🔬 Researcher &nbsp;·&nbsp; 💬 NLP &nbsp;·&nbsp; 🤖 AI / ML
 
 </div>
 
@@ -15,10 +15,38 @@
 ## 📌 About Me
 
 - 🎓 AI Student at **Taibah University**
-- 💻 Skilled in **Python**, **Java**, **Pandas**, **Scikit-learn**, **OpenCV**, **Streamlit**
-- 🇸🇦 Focused on **Arabic NLP** and **computer vision**
+- 🔬 **Researcher** in **Natural Language Processing (NLP)**
+- 🏆 Participated in **MCAIT**
+- 💻 Skilled in **Python**, **Java**, **NLP**, **Pandas**, **Scikit-learn**, **OpenCV**, **Streamlit**
+- 🇸🇦 Focused on **Arabic NLP**, **Saudi dialects** and **computer vision**
 - 🔬 I like building ML from first principles, then shipping it as real apps
 - 📍 Based in Medina, Saudi Arabia
+
+---
+
+## 🔬 Research
+
+<table>
+<tr>
+<td width="90" align="center">🤗</td>
+<td>
+
+**[Niyyah Dataset · نيّة](https://huggingface.co/datasets/niyyah/niyyah)** — *Contributor*<br/>
+The **first Saudi dialects intent classification dataset**, published on Hugging Face.
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Niyyah%20Dataset-FFD21E?style=for-the-badge)](https://huggingface.co/datasets/niyyah/niyyah)
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center">🏆</td>
+<td>
+
+**MCAIT** — *Participant*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,6 +66,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arabic%20NLP-Saudi%20Dialects-006C35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" />
 </p>
 
 ---

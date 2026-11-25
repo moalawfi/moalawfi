@@ -16,7 +16,6 @@
 
 - 🎓 AI Student at **Taibah University**
 - 🔬 **Researcher** in **Natural Language Processing (NLP)**, **GeoAI** and **Computer Vision**
-- 🎤 **Presenter** at **MCAIT**
 - 💻 Skilled in **Python**, **Java**, **NLP**, **Pandas**, **Scikit-learn**, **OpenCV**, **Streamlit**
 - 🇸🇦 Focused on **Arabic NLP**, **Saudi dialects** and **computer vision**
 - 🔬 I like building ML from first principles, then shipping it as real apps
@@ -32,8 +31,8 @@
 <td>
 
 **A Human-Validated Saudi Arabic Intent Benchmark Dataset with Leakage-Aware Splits and Evaluation Across Dialects and Model Families**<br/>
-**M. A. Alawfi**, A. M. Almutairi, Y. M. Althubyani, I. F. Moawad<br/>
-*IEEE MCAIT 2026* — 🎤 **Presenter** · 📚 to appear in **IEEE Xplore**
+M. A. Alawfi, A. M. Almutairi, Y. M. Althubyani, I. F. Moawad<br/>
+*IEEE MCAIT 2026* —  **Presenter** · 📚 to appear in **IEEE Xplore**
 
 - 🇸🇦 **10,500** utterances across **30 intents** (29 + out-of-scope)
 - 🗣️ Covers **Hijazi**, **Najdi**, **Shared Saudi Gulf** and **MSA**, validated by three domain experts

@@ -28,21 +28,31 @@
 
 <table>
 <tr>
-<td width="90" align="center">🤗</td>
+<td width="90" align="center">📄</td>
 <td>
 
-**[Niyyah Dataset · نيّة](https://huggingface.co/datasets/niyyah/niyyah)** — *Contributor*<br/>
-The **first Saudi dialects intent classification dataset**, published on Hugging Face.
+**A Human-Validated Saudi Arabic Intent Benchmark Dataset with Leakage-Aware Splits and Evaluation Across Dialects and Model Families**<br/>
+**M. A. Alawfi**, A. M. Almutairi, Y. M. Althubyani, I. F. Moawad<br/>
+*IEEE MCAIT 2026* — 🎤 **Presenter** · 📚 to appear in **IEEE Xplore**
 
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Niyyah%20Dataset-FFD21E?style=for-the-badge)](https://huggingface.co/datasets/niyyah/niyyah)
+- 🇸🇦 **10,500** utterances across **30 intents** (29 + out-of-scope)
+- 🗣️ Covers **Hijazi**, **Najdi**, **Shared Saudi Gulf** and **MSA**, validated by three domain experts
+- 🧪 **17** model configurations evaluated, from classic classifiers and fine-tuned transformers to embeddings and prompted LLMs
+- 🎯 Best supervised approaches reach a **Macro-F1 of 0.9987**
+
+![IEEE MCAIT 2026](https://img.shields.io/badge/IEEE-MCAIT%202026-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-to%20appear-00629B?style=for-the-badge)
 
 </td>
 </tr>
 <tr>
-<td width="90" align="center">🏆</td>
+<td width="90" align="center">🤗</td>
 <td>
 
-**MCAIT** — *Presenter* 🎤
+**[Niyyah Dataset · نيّة](https://huggingface.co/datasets/niyyah/niyyah)** — *Contributor*<br/>
+The **first Saudi dialects intent classification dataset**, published on Hugging Face and introduced in the paper above.
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Niyyah%20Dataset-FFD21E?style=for-the-badge)](https://huggingface.co/datasets/niyyah/niyyah)
 
 </td>
 </tr>

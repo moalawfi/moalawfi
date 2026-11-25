@@ -15,7 +15,7 @@
 ## 📌 About Me
 
 - 🎓 AI Student at **Taibah University**
-- 🔬 **Researcher** in **Natural Language Processing (NLP)**
+- 🔬 **Researcher** in **Natural Language Processing (NLP)**, **GeoAI** and **Computer Vision**
 - 🎤 **Presenter** at **MCAIT**
 - 💻 Skilled in **Python**, **Java**, **NLP**, **Pandas**, **Scikit-learn**, **OpenCV**, **Streamlit**
 - 🇸🇦 Focused on **Arabic NLP**, **Saudi dialects** and **computer vision**

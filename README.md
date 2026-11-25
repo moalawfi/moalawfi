@@ -91,11 +91,11 @@ The **first Saudi dialects intent classification dataset**, published on Hugging
 | Project | What it does | Stack |
 |---|---|---|
 | 👁️ **[Basira · بصيرة](https://github.com/moalawfi/basira-ai)** | Arabic-first AI that reads text and sees images: intent, sentiment, keywords, faces, shapes, colors, OCR. CLI, REST API and web dashboard. | Python · scikit-learn · OpenCV · Flask |
-| 🐦 **[Tweet Sentiment (Sentiment140)](https://github.com/moalawfi/Sentiment140-Tweet-Sentiment-Classification-end-to-end-NLP-Machine-Learning-notebook-)** | End-to-end tweet sentiment pipeline, from BoW/TF-IDF to Qwen3 embeddings, with full evaluation. | NLP · Embeddings |
-| 🔡 **[PCA Experiments](https://github.com/moalawfi/PCA-Experiments)** | How well PCA compresses digit and Arabic-letter images, and how that affects classification. | NumPy · scikit-learn |
-| 📉 **[Gradient Descent from Scratch](https://github.com/moalawfi/Gradient-Descent-Linear-Regression-No-Libraries-)** | Linear regression built from first principles: MSE, gradients, convergence plots, no sklearn. | NumPy · Matplotlib |
-| 🌸 **[Iris Classifier App](https://github.com/moalawfi/Iris-Classification-Project)** | Streamlit app that classifies Iris flowers into three species. | scikit-learn · Streamlit |
-| 💧 **[Water Bottle Classifier](https://github.com/moalawfi/TeachableMachine-Water-Classification)** | Image model that tells 5-gallon and 500 ml water bottles apart. | Teachable Machine |
+| 🐦 **[Tweet Sentiment (Sentiment140)](https://github.com/moalawfi/tweet-sentiment-analysis)** | End-to-end tweet sentiment pipeline, from BoW/TF-IDF to Qwen3 embeddings, with full evaluation. | NLP · Embeddings |
+| 🔡 **[PCA Experiments](https://github.com/moalawfi/pca-experiments)** | How well PCA compresses digit and Arabic-letter images, and how that affects classification. | NumPy · scikit-learn |
+| 📉 **[Gradient Descent from Scratch](https://github.com/moalawfi/gradient-descent-from-scratch)** | Linear regression built from first principles: MSE, gradients, convergence plots, no sklearn. | NumPy · Matplotlib |
+| 🌸 **[Iris Classifier App](https://github.com/moalawfi/iris-classifier-app)** | Streamlit app that classifies Iris flowers into three species. **[▶ Live demo](https://iris-ml-classification-project.streamlit.app)** | scikit-learn · Streamlit |
+| 💧 **[Water Bottle Classifier](https://github.com/moalawfi/water-bottle-classifier)** | Image model that tells 5-gallon and 500 ml water bottles apart. | Teachable Machine |
 
 ---
 
